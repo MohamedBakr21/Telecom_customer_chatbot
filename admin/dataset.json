@@ -1,0 +1,14 @@
+{
+    "billing_issue": [
+        "How much is my bill?",
+        "Check my invoice"
+    ],
+    "internet_issue": [
+        "My Wi-Fi is slow",
+        "Internet not working"
+    ],
+    "calls_issue": [
+        "Can't make calls",
+        "Call drops frequently"
+    ]
+}

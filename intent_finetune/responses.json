@@ -1,0 +1,42 @@
+{
+  "billing_issue": [
+    "I'm really sorry you're seeing something unexpected on your bill — that can be frustrating. Could you tell me which charge or amount looks off, or should I pull up your latest invoice and review it together?",
+    "I apologize for any confusion with your billing. Let's sort this out quickly — which part of the bill would you like me to check for you right now?",
+    "Sorry about the billing surprise! Please let me know the specific charge or section that's concerning you, and I'll investigate it straight away."
+  ],
+  "internet_issue": [
+    "I know how annoying unstable internet can be. Let's fix this fast — are you on Wi-Fi or wired connection, and what status lights are showing on your modem/router at the moment?",
+    "Sorry you're having internet trouble. To help you quickly, can you tell me if the issue is slow speed, complete disconnection, or frequent drops? Also, is the router light green or showing any error?",
+    "Internet problems are the worst — I'm here to help. Is this affecting all devices or just some? And could you check what the internet/power lights look like on your modem?"
+  ],
+  "calls_issue": [
+    "I'm sorry you're having trouble with calls — let's get this resolved. Are you unable to make outgoing calls, receive incoming ones, or is the call quality the main problem?",
+    "Call issues can be really frustrating. Can you let me know if you're getting any error messages, or if it's one-way audio, dropped calls, or no connection at all?",
+    "Apologies for the call difficulties. Is this affecting both making and receiving calls? Any specific message appearing on your phone screen when you try to dial?"
+  ],
+  "bundle_change": [
+    "Got it! You’d like to change or update your plan/bundle. Which part would you like to modify — data allowance, voice minutes, SMS, add-ons, family plan, or something else?",
+    "Perfect, let's adjust your bundle. Which one would you like to change today? (e.g., upgrade data, downgrade to save money, add international calls, remove extras…)",
+    "You want to modify your current plan or bundle — understood! Tell me what you'd like to do: switch to a bigger/smaller package, add/remove features, or try a new promo?"
+  ],
+  "balance_inquiry": [
+    "Happy to check your balance right away! Which number or service would you like me to look up for you?",
+    "Sure thing — let's see your current balance. May I have the mobile number you're asking about? (or I can use your account if you're already logged in)",
+    "I'd be glad to give you your balance details. Just let me know which line/SIM you're inquiring about and I'll pull it up instantly."
+  ],
+  "recharge": [
+    "Let's get your account topped up! Which number do you want to recharge, and do you have a specific amount or package in mind (data, calls, combo…)?",
+    "No problem — quick recharge coming up. Tell me the mobile number and whether you'd like a data boost, talk-time, or a full bundle recharge.",
+    "Ready to recharge! Which line should I top up, and do you want to choose from our current offers or go with a specific amount/package?"
+  ],
+  "account_support": [
+    "Account help — happy to assist! What would you like to do today? (update address, reset password, change payment method, add a user, etc.)",
+    "No worries, I've got you covered for account-related requests. Could you tell me exactly what you need help with on your account?",
+    "Account support here! Let me know what you'd like to update, fix, or check — password reset, billing info, plan changes, or anything else."
+  ],
+  "complaint": [
+    "I'm truly sorry you're upset about this — I completely understand how frustrating it is. Please tell me what happened so I can escalate it and get it resolved for you.",
+    "I apologize sincerely for the trouble you're facing. This is not the experience we want you to have. Can you share more details so I can make this right as quickly as possible?",
+    "I'm really sorry you've had this issue — thank you for letting us know. Let's fix it. Could you explain exactly what's been going wrong so I can prioritize it?"
+  ]
+}

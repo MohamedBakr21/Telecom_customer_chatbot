@@ -1,0 +1,23 @@
+{
+    "user123": {
+        "history": [
+            {
+                "user": "My internet is very slow today",
+                "intent": "internet_issue",
+                "bot": "I see you have a internet_issue issue. Internet problems are the worst — I'm here to help. Is this affecting all devices or just some? And could you check what the internet/power lights look like on your modem?"
+            },
+            {
+                "user": "It's not connecting at all now",
+                "intent": "internet_issue",
+                "bot": "I know how annoying unstable internet can be. Let's fix this fast — are you on Wi-Fi or wired connection, and what status lights are showing on your modem/router at the moment?"
+            },
+            {
+                "user": "Also, I can't check my balance",
+                "intent": "balance_inquiry",
+                "bot": "I see you have a balance_inquiry issue. Happy to check your balance right away! Which number or service would you like me to look up for you?"
+            }
+        ],
+        "last_intent": "balance_inquiry",
+        "slots": {}
+    }
+}
